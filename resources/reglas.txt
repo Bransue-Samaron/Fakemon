@@ -1,0 +1,13 @@
+Reglas básicas:
+
+1. Iniciaras con un Fakémon inicial y combatirás contra otros entrenadores
+
+2. Cuando venzas al entrenador pasaras a la siguiente Ronda.
+
+3. Si lo realizaste bien, se te permitirá capturar el Fakemon del rival vencido
+
+4. Vence a 4 entrenadores para enfrentarte a un líder de gimnasio.
+
+5. Vence a 8 Lideres de Gimnasio para enfrentarte al campeón
+
+6. Vence al campeón para ganar el juego.
