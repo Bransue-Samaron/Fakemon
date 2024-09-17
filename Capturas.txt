@@ -1,0 +1,9 @@
+Cuando venzas a un entrenador se calcularan los puntos que ganaste, dependiendo los puntos que tengas se te darán Pokebolas para que atrapes al Fakemon del Rival.
+
+Te dan puntos las siguientes cosas:
+1.La cantidad de vida que tenga al final de la batalla tu Fakemon
+2.La cantidad de Movimientos que usaste para vencerlo
+3.La cantidad de Objetos utilizados
+4.La cantidad de ataques efectivos que uses.
+
+Si atrapas un Fakemon podras usarlo en la siguiente batalla.

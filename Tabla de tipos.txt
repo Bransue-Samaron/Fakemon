@@ -1,0 +1,25 @@
+Tabla de Efectividad de Tipos
+
+Fuego: Fuerte contra Planta, Bicho, Acero. Débil contra Agua, Roca, Dragón.
+Agua: Fuerte contra Fuego, Tierra. Débil contra Planta, Dragón.
+Planta: Fuerte contra Agua, Tierra, Roca. Débil contra Fuego, Hielo, Veneno, Volador, Bicho.
+Eléctrico: Fuerte contra Agua, Volador. Débil contra Tierra.
+Hielo: Fuerte contra Planta, Dragón, Volador, Tierra. Débil contra Fuego, Lucha, Acero.
+Lucha: Fuerte contra Normal, Hielo, Roca, Acero. Débil contra Volador, Psíquico, Hada.
+Veneno: Fuerte contra Planta, Hada. Débil contra Tierra, Roca, Psíquico.
+Tierra: Fuerte contra Fuego, Eléctrico, Veneno, Roca. Débil contra Agua, Planta, Hada.
+Volador: Fuerte contra Bicho, Planta, Hada. Débil contra Roca, Eléctrico, Hielo.
+Psíquico: Fuerte contra Lucha, Veneno. Débil contra Bicho, Oscuro.
+Bicho: Fuerte contra Planta, Psíquico, Oscuro. Débil contra Fuego, Volador, Roca.
+Roca: Fuerte contra Fuego, Hielo, Volador, Bicho. Débil contra Agua, Planta, Lucha, Tierra.
+Acero: Fuerte contra Hielo, Roca, Hada. Débil contra Fuego, Lucha, Tierra.
+Dragón: Fuerte contra Dragón. Débil contra Hielo, Hada.
+Hada: Fuerte contra Lucha, Oscuro. Débil contra Acero.
+Oscuro: Fuerte contra Psíquico. Débil contra Lucha, Hada.
+
+¿Cómo leer esta tabla?
+Fuerte contra: Significa que los ataques de este tipo causan más daño al tipo indicado.
+Débil contra: Significa que los ataques de este tipo son menos efectivos contra el tipo indicado.
+
+Ejemplo:
+Un ataque de tipo Fuego causará más daño a un Pokémon de tipo Planta, pero será menos efectivo contra un Pokémon de tipo Agua.
