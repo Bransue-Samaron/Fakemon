@@ -30,7 +30,7 @@ public class Instrucciones {
                     mostrarTiposYEfectividades();
                     break;
                 case 3:
-                    //mostrarCapturas();
+                    mostrarCapturas();
                     break;
                 case 4:
                     //mostratCombates();
@@ -68,7 +68,24 @@ public class Instrucciones {
             System.out.println("Error al leer el archivo de reglas: " + e.getMessage());
         }
     }
+    
+//Aqui se muestran las reglas de la captura de pokemones
+  private void mostrarCapturas() {
+        try {
+            
+            File archivo = new File("resources/Capturas.txt");
+            Scanner scanner = new Scanner(archivo);
 
+            while (scanner.hasNextLine()) {
+                String linea = scanner.nextLine();
+                System.out.println(linea);
+            }
+
+            scanner.close();
+        } catch (Exception e) {
+            System.out.println("Error al leer el archivo de reglas: " + e.getMessage());
+        }
+    }
     // ... y así sucesivamente para cada método que muestra información específica
 
     public static void main(String[] args) {
